@@ -1,0 +1,10 @@
+/* App.css */
+.app {
+  text-align: center;
+  margin-top: 2rem;
+}
+button {
+  margin: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+}
