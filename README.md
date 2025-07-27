@@ -40,10 +40,6 @@ Edit
 
 ![Generated Result](screenshot/Screenshot%202025-07-27%20182227.png)
 
-> **Caption Example:**
->
-> `"a man riding a surfboard on a wave"`
-
 ---
 
 ## ⚙️ Setup Instructions
